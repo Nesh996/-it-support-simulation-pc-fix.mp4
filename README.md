@@ -2,7 +2,7 @@ IT Support Simulation: End-to-End Resolution
 
 This repository presents a professional IT support simulation that demonstrates the complete lifecycle of resolving a technical issue, from ticket creation to final resolution. The project was developed as part of the Capaciti Program to showcase technical troubleshooting, structured problem-solving, and effective IT support communication.
 
-📺 Project Demonstration
+ Project Demonstration
 
 To see the full simulation of the ticketing process, software troubleshooting, and onsite hardware repair, watch the video below:
 
@@ -20,7 +20,7 @@ Hardware Resolution
 
 Performing onsite diagnostics and physical troubleshooting to identify faulty hardware components and restore system functionality.
 
-🔄 Resolution Workflow
+ Resolution Workflow
 1. Incident Logging & Triage
 
 Process:
@@ -53,7 +53,7 @@ Performing a physical inspection of the workstation
 Identifying faulty hardware components (SATA, RAM, or storage)
 Repairing or replacing damaged components
 Verifying system stability after repair
-🧰 Tech Stack & Core Competencies
+Tech Stack & Core Competencies
 
 Operating Systems
 
@@ -74,7 +74,3 @@ https://shorturl.at/sfsvv
 ## Project: Technical Support Simulation
 This project demonstrates a high-level troubleshooting workflow, focusing on system restoration and professional communication.
 
-### Key Skills Demonstrated:
-* **System Diagnostics:** Identifying and resolving PC boot and performance issues.
-* **Security Awareness:** Ensuring system integrity during the fix process.
-* **Professional Standards:** Providing clear, actionable technical support.
