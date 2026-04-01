@@ -1,6 +1,6 @@
 Intelligent Systems Developer | Management & IT Support
 
-https://capeitinitiative-my.sharepoint.com/:v:/g/personal/sinenhlanhla_khumalo_capaciti_org_za/IQDt-voKaRhdSIL5BEig1BTBAY_k_m-iwr7UHirj37RTlNs?e=ccQndb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+https://shorturl.at/sfsvv
 ## Project: Technical Support Simulation
 This project demonstrates a high-level troubleshooting workflow, focusing on system restoration and professional communication.
 
