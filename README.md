@@ -6,9 +6,9 @@ This repository presents a professional IT support simulation that demonstrates 
 
 To see the full simulation of the ticketing process, software troubleshooting, and onsite hardware repair, watch the video below:
 
-Watch the IT Support Simulation Video
+https://shorturl.at/sfsvv
 
-🛠 Project Overview
+Project Overview
 
 The objective of this simulation is to bridge the gap between technical theory and real-world IT support practices. It demonstrates how IT support professionals diagnose and resolve two main categories of technical issues: software-related problems and hardware failures.
 
@@ -31,6 +31,7 @@ Actions:
 Capturing user details and incident information
 Assessing ticket priority and severity
 Performing initial diagnostic questioning to categorize the issue
+
 2. Software & Remote Support
 
 Scenario:
@@ -70,7 +71,3 @@ Key Skills
 Root Cause Analysis (RCA): Identifying whether issues originate from software or hardware failures
 Technical Communication: Explaining technical concepts clearly to end-users
 Security Compliance: Ensuring troubleshooting follows organizational security standards
-https://shorturl.at/sfsvv
-## Project: Technical Support Simulation
-This project demonstrates a high-level troubleshooting workflow, focusing on system restoration and professional communication.
-
